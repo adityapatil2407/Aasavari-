@@ -1,5 +1,6 @@
 # Aasavari-
-Aasavari Tea Stall
+Aasavari Tea Stall.
+
 It is a Django based Web application project.
 
 Aasavari Tea Stall is a family-owned business dedicated to providing high-quality tea products and services. Our journey began in the picturesque tea gardens of Assam, where we cultivated a passion for tea that extends beyond borders.
